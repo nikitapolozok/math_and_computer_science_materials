@@ -1,1 +1,1 @@
-# npolozok
+Materials about math and computer science
